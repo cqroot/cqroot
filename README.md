@@ -1,4 +1,5 @@
 # cqroot
 
-- 🌏 From China.
+- 🌏 From China
 - 📧 cqroot@outlook.com
+- 🐱‍👤 Developer/Vimmer
