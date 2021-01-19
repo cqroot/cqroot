@@ -1,4 +1,4 @@
 # cqroot
 
-- 🌏From China.
-- 📧cqroot@outlook.com
+- 🌏 From China.
+- 📧 cqroot@outlook.com
