@@ -4,7 +4,7 @@
     <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/cqroot?style=social">
   </h1>
   
-  <p>📧 cqroot@outlook.com &emsp; 🌏 Anhui, China</p>
+  <p>📧 <a href="mailto:cqroot@outlook.com">cqroot@outlook.com</a> &emsp; 🌏 Anhui, China</p>
   
   <br />
 </div>
