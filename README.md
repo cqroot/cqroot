@@ -10,11 +10,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqroot&layout=compact&theme=nord">
+  <img src="https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord&line_height=40&count_private=true">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqroot&theme=nord">
 </p>
 
 ---
