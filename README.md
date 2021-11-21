@@ -19,11 +19,11 @@
 
 ---
 
-![](https://img.shields.io/badge/Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=3f4a5a)
-![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=3f4a5a)
-![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=3f4a5a)
-![](https://img.shields.io/badge/OpenStack-informational?style=for-the-badge&logo=openstack&logoColor=white&color=3f4a5a)
-![](https://img.shields.io/badge/Ceph-informational?style=for-the-badge&logo=ceph&logoColor=white&color=3f4a5a)
-![](https://img.shields.io/badge/Prometheus-informational?style=for-the-badge&logo=prometheus&logoColor=white&color=3f4a5a)
-![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=3f4a5a)
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/OpenStack-informational?style=flat&logo=openstack&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/Ceph-informational?style=flat&logo=ceph&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/Prometheus-informational?style=flat-square&logo=prometheus&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=3f4a5a)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3f4a5a)
