@@ -17,6 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqroot&layout=compact&theme=nord">
 </p>
 
+---
+
 ![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=00acd7)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=5b5b5b)
 ![](https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim&logoColor=white&color=639e3d)
