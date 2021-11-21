@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord&line_height=27&count_private=true">
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqroot&theme=nord&langs_count=3&hide=css,typescript,html,ejs,javascript">
 </p>
 
