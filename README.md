@@ -25,4 +25,5 @@
   <img src="https://img.shields.io/badge/Prometheus-informational?style=flat-square&logo=prometheus&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Tmux-informational?style=flat&logo=tmux&logoColor=white&color=3f4a5a">
 </p>
