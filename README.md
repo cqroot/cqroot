@@ -7,7 +7,7 @@
   <p>📧 <a href="mailto:cqroot@outlook.com">cqroot@outlook.com</a> &emsp; 🌏 Anhui, China</p>
 </div>
 
-<h2>Github stats</h2>
+<h3>Github stats</h3>
 
 <p align="center">
   <a href="https://github.com/cqroot/cqroot">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2>Open source projects</h2>
+<h3>Open source projects</h3>
 
 <table align="center">
   <thead align="center">
@@ -48,7 +48,7 @@
   </tbody>
 </table>
 
-<h2>Things I code with</h2>
+<h3>Things I code with</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=3f4a5a">
