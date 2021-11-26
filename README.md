@@ -5,8 +5,6 @@
   </h1>
   
   <p>📧 <a href="mailto:cqroot@outlook.com">cqroot@outlook.com</a> &emsp; 🌏 Anhui, China</p>
-  
-  <br />
 </div>
 
 <h2>Github stats</h2>
