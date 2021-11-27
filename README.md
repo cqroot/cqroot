@@ -3,8 +3,9 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/cqroot?style=social">
     <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/cqroot?style=social">
   </h1>
-  
+
   <p>📧 <a href="mailto:cqroot@outlook.com">cqroot@outlook.com</a> &emsp; 🌏 Anhui, China</p>
+  <i>Gopher / Object Storage / Neovim</i>
 </div>
 
 <h3>Github stats</h3>
