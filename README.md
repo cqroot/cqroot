@@ -29,6 +29,7 @@
       <td><b>Forks</b></td>
       <td><b>Issues</b></td>
       <td><b>Pull requests</b></td>
+      <td><b>Version</b></td>
     </tr>
   </thead>
   <tbody>
@@ -38,13 +39,15 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>
+      <td><img alt="Version" src="https://img.shields.io/npm/v/joplin-plugin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>    
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/cqroot/openstack_swift_exporter"><b>OpenStack swift exporter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack_swift_exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack_swift_exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/cqroot/openstack_swift_exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/openstack_swift_exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
+      <td><img alt="Version" src="https://img.shields.io/github/v/release/cqroot/openstack_swift_exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
     </tr>
   </tbody>
 </table>
