@@ -49,6 +49,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/openstack_swift_exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
       <td><img alt="Version" src="https://img.shields.io/github/v/release/cqroot/openstack_swift_exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/cqroot/vuetify-template"><b>Vuetify template</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cqroot/vuetify-template?style=flat-square&labelColor=343b41&color=007ec6"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cqroot/vuetify-template?style=flat-square&labelColor=343b41&color=007ec6"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cqroot/vuetify-template?style=flat-square&labelColor=343b41&color=007ec6"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/vuetify-template?style=flat-square&labelColor=343b41&color=007ec6"/></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
