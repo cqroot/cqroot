@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/OpenStack-informational?style=flat&logo=openstack&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Ceph-informational?style=flat&logo=ceph&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Prometheus-informational?style=flat-square&logo=prometheus&logoColor=white&color=3f4a5a">
