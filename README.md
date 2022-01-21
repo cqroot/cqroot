@@ -56,12 +56,28 @@
   </tbody>
 </table>
 
-- Document projects
-  - [cheatsheets-cn](https://github.com/cheatsheets-cn/cheatsheets-cn)
-  - [cqroot.github.io](https://github.com/cqroot/cqroot.github.io)
-- Ansible playbook projects
-  - [zookeeper-ansible](https://github.com/cqroot/zookeeper-ansible)
-  - [kafka-ansible](https://github.com/cqroot/kafka-ansible)
+<table>
+<tr>
+  <th>Go projects</th>
+  <th>Document projects</th>
+  <th>Ansible playbook projects</th>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/cqroot/openstack-swift-exporter">openstack-swift-exporter</a>
+  </td>
+  <td>
+    <a href="https://github.com/cheatsheets-cn/cheatsheets-cn">cheatsheets-cn</a>
+    <br />
+    <a href="https://github.com/cqroot/cqroot.github.io">cqroot.github.io</a>
+  </td>
+  <td>
+    <a href="https://github.com/cqroot/zookeeper-ansible">zookeeper-ansible</a>
+    <br />
+    <a href="https://github.com/cqroot/kafka-ansible">kafka-ansible</a>
+  </td>
+</tr>
+</table>
 
 <h3>Things I code with</h3>
 
