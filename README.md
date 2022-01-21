@@ -56,7 +56,7 @@
   </tbody>
 </table>
 
-<table>
+<table align="center">
 <tr>
   <th>Go projects</th>
   <th>Document projects</th>
