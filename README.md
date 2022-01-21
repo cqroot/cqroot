@@ -56,6 +56,13 @@
   </tbody>
 </table>
 
+- Document projects
+  - [cheatsheets-cn](https://github.com/cheatsheets-cn/cheatsheets-cn)
+  - [cqroot.github.io](https://github.com/cqroot/cqroot.github.io)
+- Ansible playbook projects
+  - [zookeeper-ansible](https://github.com/cqroot/zookeeper-ansible)
+  - [kafka-ansible](https://github.com/cqroot/kafka-ansible)
+
 <h3>Things I code with</h3>
 
 <p align="center">
