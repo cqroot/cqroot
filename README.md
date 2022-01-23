@@ -65,6 +65,8 @@
 <tr>
   <td>
     <a href="https://github.com/cqroot/openstack-swift-exporter">openstack-swift-exporter</a>
+    <br />
+    <a href="https://github.com/cqroot/leetcode-go">leetcode-go</a>
   </td>
   <td>
     <a href="https://github.com/cheatsheets-cn/cheatsheets-cn">cheatsheets-cn</a>
