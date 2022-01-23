@@ -64,30 +64,14 @@
   </tbody>
 </table>
 
-<table align="center">
-<tr>
-  <th>Go projects</th>
-  <th>Document projects</th>
-  <th>Ansible playbook projects</th>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/cqroot/openstack-swift-exporter">openstack-swift-exporter</a>
-    <br />
-    <a href="https://github.com/cqroot/leetcode-go">leetcode-go</a>
-  </td>
-  <td>
-    <a href="https://github.com/cheatsheets-cn/cheatsheets-cn">cheatsheets-cn</a>
-    <br />
-    <a href="https://github.com/cqroot/cqroot.github.io">cqroot.github.io</a>
-  </td>
-  <td>
-    <a href="https://github.com/cqroot/zookeeper-ansible">zookeeper-ansible</a>
-    <br />
-    <a href="https://github.com/cqroot/kafka-ansible">kafka-ansible</a>
-  </td>
-</tr>
-</table>
+<div align="center">
+
+| Go Projects                                                  | Document projects                                            | Ansible playbook projects                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [openstack-swift-exporter](https://github.com/cqroot/openstack-swift-exporter) | [cheatsheets-cn](https://github.com/cheatsheets-cn/cheatsheets-cn) | [ zookeeper-ansible](https://github.com/cqroot/zookeeper-ansible) |
+| [leetcode-go](https://github.com/cqroot/leetcode-go)         | [cqroot.github.io](https://github.com/cqroot/cqroot.github.io) | [kafka-ansible](https://github.com/cqroot/kafka-ansible)     |
+
+</div>
 
 ### Things I code with
 
