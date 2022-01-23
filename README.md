@@ -8,7 +8,7 @@
   <i>Gopher / Object Storage / Neovim</i>
 </div>
 
-<h3>Github stats</h3>
+### Github stats
 
 <p align="center">
   <a href="https://github.com/cqroot/cqroot">
@@ -19,7 +19,15 @@
   </a>
 </p>
 
-<h3>Open source projects</h3>
+### Github streak
+
+<p align="center">
+  <a href="https://github.com/cqroot/cqroot">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=cqroot&theme=nord&date_format=M%20j%5B%2C%20Y%5D">
+  </a>
+</p>
+
+### Open source projects
 
 <table align="center">
   <thead align="center">
@@ -81,7 +89,7 @@
 </tr>
 </table>
 
-<h3>Things I code with</h3>
+### Things I code with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=3f4a5a">
