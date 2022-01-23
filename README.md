@@ -19,14 +19,6 @@
   </a>
 </p>
 
-### Github streak
-
-<p align="center">
-  <a href="https://github.com/cqroot/cqroot">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=cqroot&theme=nord&date_format=M%20j%5B%2C%20Y%5D">
-  </a>
-</p>
-
 ### Open source projects
 
 <table align="center">
@@ -66,10 +58,10 @@
 
 <div align="center">
 
-| Go Projects                                                  | Document projects                                            | Ansible playbook projects                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Go Projects | Document projects | Ansible playbook projects |
+| --- | --- | --- |
 | [openstack-swift-exporter](https://github.com/cqroot/openstack-swift-exporter) | [cheatsheets-cn](https://github.com/cheatsheets-cn/cheatsheets-cn) | [ zookeeper-ansible](https://github.com/cqroot/zookeeper-ansible) |
-| [leetcode-go](https://github.com/cqroot/leetcode-go)         | [cqroot.github.io](https://github.com/cqroot/cqroot.github.io) | [kafka-ansible](https://github.com/cqroot/kafka-ansible)     |
+| [leetcode-go](https://github.com/cqroot/leetcode-go) | [cqroot.github.io](https://github.com/cqroot/cqroot.github.io) | [kafka-ansible](https://github.com/cqroot/kafka-ansible) |
 
 </div>
 
