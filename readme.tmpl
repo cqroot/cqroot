@@ -1,0 +1,49 @@
+<div align="center">
+  <h1>CQROOT &nbsp;
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/cqroot?style=social">
+    <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/cqroot?style=social">
+  </h1>
+
+  <p>📧 <a href="mailto:cqroot@outlook.com">cqroot@outlook.com</a> &emsp; 🌏 Anhui, China</p>
+  <i>Gopher / Object Storage / Neovim</i>
+</div>
+
+### Github stats
+
+<p align="center">
+  <a href="https://github.com/cqroot/cqroot">
+    <img src="https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord&line_height=27&count_private=true">
+  </a>
+  <a href="https://github.com/cqroot/cqroot">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqroot&theme=nord&langs_count=3&hide=css,typescript,html,ejs,javascript">
+  </a>
+</p>
+
+### Open source projects
+
+<table align="center">
+{{- range .Repos }}
+<tr>
+{{- range . }}
+  <td><table>
+    <tr><td><h3><a href="https://github.com/{{ .User }}/{{.Name}}">{{ .Name }}</a></h3>-----------------------------------------------------------------</td></tr>
+    <tr><td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Forks" src="https://img.shields.io/github/forks/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
+    </td></tr>
+  </table></td>
+{{- end }}
+</tr><tr></tr>
+{{- end }}
+<tr><td></td><td></td></tr>
+</table>
+
+### Things I code with
+
+<p align="center">
+{{- range .Badges}}
+  <img src="https://img.shields.io/badge/{{ . }}-informational?style=flat&logo={{ . }}&logoColor=white&color=3f4a5a">
+{{- end}}
+</p>

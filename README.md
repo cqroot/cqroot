@@ -22,61 +22,80 @@
 ### Open source projects
 
 <table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/cqroot/joplin-outline"><b>Joplin outline</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/></td>   
-    </tr>
-    <tr>
-      <td><a href="https://github.com/cqroot/openstack-swift-exporter"><b>OpenStack swift exporter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/cheatsheets-cn/cheatsheets-cn"><b>Cheatsheets CN</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/></td>
-    </tr>
-  </tbody>
+<tr>
+  <td><table>
+    <tr><td><h3><a href="https://github.com/cqroot/joplin-outline">joplin-outline</a></h3>-----------------------------------------------------------------</td></tr>
+    <tr><td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
+    </td></tr>
+  </table></td>
+  <td><table>
+    <tr><td><h3><a href="https://github.com/cheatsheets-cn/cheatsheets-cn">cheatsheets-cn</a></h3>-----------------------------------------------------------------</td></tr>
+    <tr><td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Forks" src="https://img.shields.io/github/forks/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
+    </td></tr>
+  </table></td>
+</tr><tr></tr>
+<tr>
+  <td><table>
+    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-exporter">openstack-swift-exporter</a></h3>-----------------------------------------------------------------</td></tr>
+    <tr><td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
+    </td></tr>
+  </table></td>
+  <td><table>
+    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-dashboard">openstack-swift-dashboard</a></h3>-----------------------------------------------------------------</td></tr>
+    <tr><td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
+    </td></tr>
+  </table></td>
+</tr><tr></tr>
+<tr>
+  <td><table>
+    <tr><td><h3><a href="https://github.com/cqroot/zookeeper-ansible">zookeeper-ansible</a></h3>-----------------------------------------------------------------</td></tr>
+    <tr><td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+    </td></tr>
+  </table></td>
+  <td><table>
+    <tr><td><h3><a href="https://github.com/cqroot/kafka-ansible">kafka-ansible</a></h3>-----------------------------------------------------------------</td></tr>
+    <tr><td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
+    </td></tr>
+  </table></td>
+</tr><tr></tr>
+<tr><td></td><td></td></tr>
 </table>
-
-<div align="center">
-
-| Go Projects | Document projects | Ansible playbook projects |
-| --- | --- | --- |
-| [openstack-swift-exporter](https://github.com/cqroot/openstack-swift-exporter) | [cheatsheets-cn](https://github.com/cheatsheets-cn/cheatsheets-cn) | [ zookeeper-ansible](https://github.com/cqroot/zookeeper-ansible) |
-| [leetcode-go](https://github.com/cqroot/leetcode-go) | [cqroot.github.io](https://github.com/cqroot/cqroot.github.io) | [kafka-ansible](https://github.com/cqroot/kafka-ansible) |
-
-</div>
 
 ### Things I code with
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Neovim-informational?style=flat&logo=neovim&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/OpenStack-informational?style=flat&logo=openstack&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Ceph-informational?style=flat&logo=ceph&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Prometheus-informational?style=flat-square&logo=prometheus&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=3f4a5a">
-  <img src="https://img.shields.io/badge/Tmux-informational?style=flat&logo=tmux&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/OpenStack-informational?style=flat&logo=OpenStack&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Ceph-informational?style=flat&logo=Ceph&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Prometheus-informational?style=flat&logo=Prometheus&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3f4a5a">
+  <img src="https://img.shields.io/badge/Tmux-informational?style=flat&logo=Tmux&logoColor=white&color=3f4a5a">
 </p>
