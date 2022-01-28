@@ -24,7 +24,7 @@
 <table align="center">
 <tr>
   <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/joplin-outline">joplin-outline</a></h3>-----------------------------------------------------------</td></tr>
+    <tr><td><h3><a href="https://github.com/cqroot/joplin-outline">joplin-outline</a></h3></td></tr>
     <tr><td>
       <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
       <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
@@ -33,7 +33,7 @@
     </td></tr>
   </table></td>
   <td><table>
-    <tr><td><h3><a href="https://github.com/cheatsheets-cn/cheatsheets-cn">cheatsheets-cn</a></h3>-----------------------------------------------------------</td></tr>
+    <tr><td><h3><a href="https://github.com/cheatsheets-cn/cheatsheets-cn">cheatsheets-cn</a></h3></td></tr>
     <tr><td>
       <img alt="Stars" src="https://img.shields.io/github/stars/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
       <img alt="Forks" src="https://img.shields.io/github/forks/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
@@ -44,7 +44,7 @@
 </tr><tr></tr>
 <tr>
   <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-exporter">openstack-swift-exporter</a></h3>-----------------------------------------------------------</td></tr>
+    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-exporter">openstack-swift-exporter</a></h3></td></tr>
     <tr><td>
       <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
       <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
@@ -53,7 +53,7 @@
     </td></tr>
   </table></td>
   <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-dashboard">openstack-swift-dashboard</a></h3>-----------------------------------------------------------</td></tr>
+    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-dashboard">openstack-swift-dashboard</a></h3></td></tr>
     <tr><td>
       <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
       <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
@@ -64,7 +64,7 @@
 </tr><tr></tr>
 <tr>
   <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/zookeeper-ansible">zookeeper-ansible</a></h3>-----------------------------------------------------------</td></tr>
+    <tr><td><h3><a href="https://github.com/cqroot/zookeeper-ansible">zookeeper-ansible</a></h3></td></tr>
     <tr><td>
       <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
       <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
@@ -73,7 +73,7 @@
     </td></tr>
   </table></td>
   <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/kafka-ansible">kafka-ansible</a></h3>-----------------------------------------------------------</td></tr>
+    <tr><td><h3><a href="https://github.com/cqroot/kafka-ansible">kafka-ansible</a></h3></td></tr>
     <tr><td>
       <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
       <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
