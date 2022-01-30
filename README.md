@@ -49,6 +49,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=kafka-ansible"/>
     </a>
   </p>
+</div>
 
 ### Things I code with
 
