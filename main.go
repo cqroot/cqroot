@@ -63,7 +63,7 @@ var readme Readme = Readme{
 }
 
 func main() {
-	tmpl, err := template.ParseFiles("./readme.tmpl")
+	tmpl, err := template.ParseFiles("./README.tmpl")
 	if err != nil {
 		panic(err)
 	}

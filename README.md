@@ -21,69 +21,34 @@
 
 ### Open source projects
 
-<table align="center">
-<tr>
-  <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/joplin-outline">joplin-outline</a></h3></td></tr>
-    <tr><td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/joplin-outline?style=flat-square&labelColor=343b41&color=007ec6"/>
-    </td></tr>
-  </table></td>
-  <td><table>
-    <tr><td><h3><a href="https://github.com/cheatsheets-cn/cheatsheets-cn">cheatsheets-cn</a></h3></td></tr>
-    <tr><td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Forks" src="https://img.shields.io/github/forks/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Issues" src="https://img.shields.io/github/issues/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cheatsheets-cn/cheatsheets-cn?style=flat-square&labelColor=343b41&color=007ec6"/>
-    </td></tr>
-  </table></td>
-</tr><tr></tr>
-<tr>
-  <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-exporter">openstack-swift-exporter</a></h3></td></tr>
-    <tr><td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/openstack-swift-exporter?style=flat-square&labelColor=343b41&color=007ec6"/>
-    </td></tr>
-  </table></td>
-  <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/openstack-swift-dashboard">openstack-swift-dashboard</a></h3></td></tr>
-    <tr><td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/openstack-swift-dashboard?style=flat-square&labelColor=343b41&color=007ec6"/>
-    </td></tr>
-  </table></td>
-</tr><tr></tr>
-<tr>
-  <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/zookeeper-ansible">zookeeper-ansible</a></h3></td></tr>
-    <tr><td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/zookeeper-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-    </td></tr>
-  </table></td>
-  <td><table>
-    <tr><td><h3><a href="https://github.com/cqroot/kafka-ansible">kafka-ansible</a></h3></td></tr>
-    <tr><td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Forks" src="https://img.shields.io/github/forks/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Issues" src="https://img.shields.io/github/issues/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cqroot/kafka-ansible?style=flat-square&labelColor=343b41&color=007ec6"/>
-    </td></tr>
-  </table></td>
-</tr><tr></tr>
-<tr><td></td><td></td></tr>
-</table>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/cqroot/joplin-outline">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=joplin-outline"/>
+    </a>
+        &nbsp
+    <a href="https://github.com/cheatsheets-cn/cheatsheets-cn">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cheatsheets-cn&repo=cheatsheets-cn"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/cqroot/openstack-swift-exporter">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=openstack-swift-exporter"/>
+    </a>
+        &nbsp
+    <a href="https://github.com/cqroot/openstack-swift-dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=openstack-swift-dashboard"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/cqroot/zookeeper-ansible">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=zookeeper-ansible"/>
+    </a>
+        &nbsp
+    <a href="https://github.com/cqroot/kafka-ansible">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=kafka-ansible"/>
+    </a>
+  </p>
 
 ### Things I code with
 

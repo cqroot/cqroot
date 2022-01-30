@@ -21,24 +21,22 @@
 
 ### Open source projects
 
-<table align="center">
+<div align="center">
 {{- range .Repos }}
-<tr>
-{{- range . }}
-  <td><table>
-    <tr><td><h3><a href="https://github.com/{{ .User }}/{{.Name}}">{{ .Name }}</a></h3></td></tr>
-    <tr><td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Forks" src="https://img.shields.io/github/forks/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Issues" src="https://img.shields.io/github/issues/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
-      <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ .User }}/{{ .Name }}?style=flat-square&labelColor=343b41&color=007ec6"/>
-    </td></tr>
-  </table></td>
+  <p align="center">
+  {{- $first := true }}
+  {{- range . }}
+    {{- if $first }}
+        {{- $first = false }}
+    {{- else }}
+        &nbsp
+    {{- end }}
+    <a href="https://github.com/{{ .User }}/{{ .Name }}">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username={{ .User }}&repo={{ .Name }}"/>
+    </a>
+  {{- end }}
+  </p>
 {{- end }}
-</tr><tr></tr>
-{{- end }}
-<tr><td></td><td></td></tr>
-</table>
 
 ### Things I code with
 
