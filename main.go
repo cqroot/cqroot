@@ -40,6 +40,16 @@ var readme Readme = Readme{
 		{
 			Repo{
 				"cqroot",
+				"gump",
+			},
+			Repo{
+				"cqroot",
+				"go-projects",
+			},
+		},
+		{
+			Repo{
+				"cqroot",
 				"zookeeper-ansible",
 			},
 			Repo{

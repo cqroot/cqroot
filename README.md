@@ -41,6 +41,15 @@
     </a>
   </p>
   <p align="center">
+    <a href="https://github.com/cqroot/gump">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=gump"/>
+    </a>
+        &nbsp
+    <a href="https://github.com/cqroot/go-projects">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=go-projects"/>
+    </a>
+  </p>
+  <p align="center">
     <a href="https://github.com/cqroot/zookeeper-ansible">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqroot&repo=zookeeper-ansible"/>
     </a>
