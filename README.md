@@ -17,7 +17,9 @@
   <a href="https://github.com/cqroot/cqroot">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqroot&theme=nord&langs_count=3&hide=css,typescript,html,ejs,javascript">
   </a>
-</p>### Things I code with
+</p>
+
+### Things I code with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=3f4a5a">
