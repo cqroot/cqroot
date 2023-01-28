@@ -1,27 +1,21 @@
-<div align="center">
-  <h1>CQROOT &nbsp;
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/cqroot?style=social">
-    <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/cqroot?style=social">
-  </h1>
 
-  <p>📧 <a href="mailto:cqroot@outlook.com">cqroot@outlook.com</a> &emsp; 🌏 Anhui, China</p>
-  <i>Gopher / Object Storage / Neovim</i>
-</div>
+<h1>CQROOT &nbsp;
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/cqroot?style=social">
+  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/cqroot?style=social">
+</h1>
+
+- 📧 [cqroot@outlook.com](mailto:cqroot@outlook.com)
+- 🌏 Anhui, China
 
 ### Github stats
 
-<p align="center">
-  <a href="https://github.com/cqroot/cqroot">
-    <img src="https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord&line_height=27&count_private=true">
-  </a>
-  <a href="https://github.com/cqroot/cqroot">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqroot&theme=nord&langs_count=3&hide=css,typescript,html,ejs,javascript">
-  </a>
-</p>
+<a href="https://github.com/cqroot/cqroot">
+  <img src="https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord&line_height=27&count_private=true">
+</a>
 
 ### Things I code with
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Go-informational?style=flat&logo=Go&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=3f4a5a">
   <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=3f4a5a">
