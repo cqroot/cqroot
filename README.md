@@ -6,8 +6,8 @@
 - 🌱 I like coding with nvim and golang, and I like to keep my notes in joplin.
 - 📧 You can get in touch with me by email at [cqroot@outlook.com](mailto:cqroot@outlook.com).
 - 💬 If you use one of my projects, I'd love to hear from you!
-    Let me know what you liked and what needs being improved.
-    Got an issue? Open a ticket, I will try my best to help!
+  Let me know what you liked and what needs being improved.
+  Got an issue? Open a ticket, I will try my best to help!
 
 ### Projects
 
@@ -16,17 +16,19 @@
 1. [Joplin Outline](https://github.com/cqroot/joplin-outline): A markdown outline (TOC) sidebar plugin for Joplin.
 2. [Dotfiles](https://github.com/cqroot/dotfiles): My dotfiles.
 
+<!-- #### Libraries written in Go -->
+<!-- #### Tools written in Go -->
+
 </td><td valign="top" width="30%">
 
 #### WIP
 
-1. [Prompt](https://github.com/cqroot/prompt)
-2. [Sawmill](https://github.com/cqroot/sawmill)
-3. [Go Template](https://github.com/cqroot/go-template)
-4. [Garden](https://github.com/cqroot/garden)
-5. [Simple Object Storage](https://github.com/cqroot/simple-object-storage)
-6. [ediff](https://github.com/cqroot/ediff)
-7. [edname](https://github.com/cqroot/edname)
+1. [prompt](https://github.com/cqroot/prompt)
+2. [sawmill](https://github.com/cqroot/sawmill)
+3. [go-template](https://github.com/cqroot/go-template)
+4. [garden](https://github.com/cqroot/garden)
+5. [ediff](https://github.com/cqroot/ediff)
+6. [edname](https://github.com/cqroot/edname)
 
 </td></tr></table>
 
