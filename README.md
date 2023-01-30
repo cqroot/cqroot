@@ -1,11 +1,34 @@
-
 <h1>CQROOT &nbsp;
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/cqroot?style=social">
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/cqroot?style=social">
 </h1>
 
-- 📧 [cqroot@outlook.com](mailto:cqroot@outlook.com)
-- 🌏 Anhui, China
+- 🌱 I like coding with nvim and golang, and I like to keep my notes in joplin.
+- 📧 You can get in touch with me by email at [cqroot@outlook.com](mailto:cqroot@outlook.com).
+- 💬 If you use one of my projects, I'd love to hear from you!
+    Let me know what you liked and what needs being improved.
+    Got an issue? Open a ticket, I will try my best to help!
+
+### Projects
+
+<table><tr><td valign="top" width="70%">
+
+1. [Joplin Outline](https://github.com/cqroot/joplin-outline): A markdown outline (TOC) sidebar plugin for Joplin.
+2. [Dotfiles](https://github.com/cqroot/dotfiles): My dotfiles.
+
+</td><td valign="top" width="30%">
+
+#### WIP
+
+1. [Prompt](https://github.com/cqroot/prompt)
+2. [Sawmill](https://github.com/cqroot/sawmill)
+3. [Go Template](https://github.com/cqroot/go-template)
+4. [Garden](https://github.com/cqroot/garden)
+5. [Simple Object Storage](https://github.com/cqroot/simple-object-storage)
+6. [ediff](https://github.com/cqroot/ediff)
+7. [edname](https://github.com/cqroot/edname)
+
+</td></tr></table>
 
 ### Github stats
 
