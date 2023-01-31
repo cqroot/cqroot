@@ -24,11 +24,11 @@
 #### WIP
 
 1. [prompt](https://github.com/cqroot/prompt)
-2. [sawmill](https://github.com/cqroot/sawmill)
+2. [ceres](https://github.com/cqroot/ceres)
 3. [go-template](https://github.com/cqroot/go-template)
-4. [garden](https://github.com/cqroot/garden)
-5. [ediff](https://github.com/cqroot/ediff)
-6. [edname](https://github.com/cqroot/edname)
+4. [ediff](https://github.com/cqroot/ediff)
+5. [edname](https://github.com/cqroot/edname)
+6. [garden](https://github.com/cqroot/garden)
 
 </td></tr></table>
 
