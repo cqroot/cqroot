@@ -13,22 +13,24 @@
 
 <table><tr><td valign="top" width="70%">
 
-1. [Joplin Outline](https://github.com/cqroot/joplin-outline): A markdown outline (TOC) sidebar plugin for Joplin.
-2. [Dotfiles](https://github.com/cqroot/dotfiles): My dotfiles.
+1. [joplin-outline](https://github.com/cqroot/joplin-outline): A markdown outline (TOC) sidebar plugin for Joplin.
+2. [dotfiles](https://github.com/cqroot/dotfiles): My dotfiles.
 
-<!-- #### Libraries written in Go -->
+#### Libraries written in Go
+
+1. [prompt](https://github.com/cqroot/prompt)
+
 <!-- #### Tools written in Go -->
 
 </td><td valign="top" width="30%">
 
 #### WIP
 
-1. [prompt](https://github.com/cqroot/prompt)
-2. [ceres](https://github.com/cqroot/ceres)
-3. [go-template](https://github.com/cqroot/go-template)
-4. [ediff](https://github.com/cqroot/ediff)
-5. [edname](https://github.com/cqroot/edname)
-6. [garden](https://github.com/cqroot/garden)
+1. [ceres](https://github.com/cqroot/ceres)
+2. [go-template](https://github.com/cqroot/go-template)
+3. [ediff](https://github.com/cqroot/ediff)
+4. [edname](https://github.com/cqroot/edname)
+5. [garden](https://github.com/cqroot/garden)
 
 </td></tr></table>
 
