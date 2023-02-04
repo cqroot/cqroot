@@ -24,7 +24,7 @@
 
 </td><td valign="top">
 
-#### WIP
+#### 🚧 Still in WIP
 
 1. [ceres](https://github.com/cqroot/ceres)
 2. [go-template](https://github.com/cqroot/go-template)
