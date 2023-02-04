@@ -18,7 +18,7 @@
 
 #### Libraries written in Go
 
-1. [prompt](https://github.com/cqroot/prompt)
+1. [prompt](https://github.com/cqroot/prompt): User-friendly interactive prompts for Go.
 
 <!-- #### Tools written in Go -->
 
@@ -36,9 +36,7 @@
 
 ### Github stats
 
-<a href="https://github.com/cqroot/cqroot">
-  <img src="https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord&line_height=27&count_private=true">
-</a>
+[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=cqroot&show_icons=true&theme=nord&line_height=27&count_private=true)](https://github.com/cqroot/cqroot)
 
 ### Things I code with
 
