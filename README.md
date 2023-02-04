@@ -11,7 +11,7 @@
 
 ### Projects
 
-<table><tr><td valign="top" width="70%">
+<table><tr><td valign="top">
 
 1. [joplin-outline](https://github.com/cqroot/joplin-outline): A markdown outline (TOC) sidebar plugin for Joplin.
 2. [dotfiles](https://github.com/cqroot/dotfiles): My dotfiles.
@@ -22,7 +22,7 @@
 
 <!-- #### Tools written in Go -->
 
-</td><td valign="top" width="30%">
+</td><td valign="top">
 
 #### WIP
 
