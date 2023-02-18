@@ -18,7 +18,7 @@
 
 #### Libraries written in Go
 
-1. [prompt](https://github.com/cqroot/prompt): User-friendly interactive prompts for Go.
+1. [prompt](https://github.com/cqroot/prompt): User-friendly, highly customizable interactive prompts for Go.
 
 <!-- #### Tools written in Go -->
 
