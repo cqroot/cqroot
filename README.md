@@ -26,12 +26,7 @@
 
 #### 🚧 Still in WIP
 
-1. [ceres](https://github.com/cqroot/ceres)
-2. [go-template](https://github.com/cqroot/go-template)
-3. [ediff](https://github.com/cqroot/ediff)
-4. [edname](https://github.com/cqroot/edname)
-5. [garden](https://github.com/cqroot/garden)
-6. [go-snippets](https://github.com/cqroot/go-snippets)
+1. [go-snippets](https://github.com/cqroot/go-snippets)
 
 </td></tr></table>
 
