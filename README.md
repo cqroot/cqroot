@@ -26,7 +26,8 @@
 
 #### 🚧 Still in WIP
 
-1. [go-snippets](https://github.com/cqroot/go-snippets)
+1. [gear](https://github.com/cqroot/gear)
+2. [go-snippets](https://github.com/cqroot/go-snippets)
 
 </td></tr></table>
 
