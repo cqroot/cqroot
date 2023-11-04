@@ -3,6 +3,8 @@
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/cqroot?style=social">
 </h1>
 
+> I'm adjusting my work pace to allow me to devote more energy to open source projects.
+
 - 📧 You can get in touch with me by email at [cqroot@outlook.com](mailto:cqroot@outlook.com).
 - 💬 If you use one of my projects, I'd love to hear from you!
   Let me know what you liked and what needs being improved.
